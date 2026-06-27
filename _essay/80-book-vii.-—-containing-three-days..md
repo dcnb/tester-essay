@@ -1,8 +1,0 @@
----
-title: BOOK VII. — CONTAINING THREE DAYS.
-order: 80
----
-## BOOK VII. — CONTAINING THREE DAYS.
-
-
----

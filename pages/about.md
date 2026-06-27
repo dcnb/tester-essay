@@ -1,5 +1,5 @@
 ---
-title: "History of Tom Jones, a Foundling — About"
+title: "Poems of Gerard Manley Hopkins&#10;Now First Published — About"
 layout: about
 permalink: /about.html
 credits: true

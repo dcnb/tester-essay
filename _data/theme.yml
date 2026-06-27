@@ -1,4 +1,3 @@
-
 ##########
 ## CB-ESSAY THEME OPTIONS
 ##########
@@ -18,11 +17,12 @@
 # - Collection objectid: demo_001
 #
 image-style: half-image                # full-image, half-image, or no-image
-featured-image: /assets/img/6593cover.jpg
-featured-image-credit: "This is a cover of the History of Tom Jones, a Foundling by
-  Fielding, Henry, 1707-1754 as extracted from Project Gutenberg; it can be found
-  here: https://www.gutenberg.org/ebooks/6593"
-featured-image-alt-text: "Cover image of History of Tom Jones, a Foundling"        # Add alt text for accessibility
+featured-image: /assets/img/22403cover.jpg
+featured-image-credit: "This is a cover of the Poems of Gerard Manley Hopkins&#10;Now
+  First Published by Hopkins, Gerard Manley, 1844-1889 as extracted from Project Gutenberg;
+  it can be found here: https://www.gutenberg.org/ebooks/22403"
+featured-image-alt-text: "Cover image of Poems of Gerard Manley Hopkins&#10;Now First
+  Published"                                                                       # Add alt text for accessibility
 
 
 # NAVIGATION FEATURES
@@ -125,7 +125,7 @@ font-cdn:                         # only set if base/display-font-family is cust
 # The print hub is available at /print/ once added to config-nav.csv.
 #
 print:
-  author: "Fielding, Henry, 1707-1754"
+  author: "Hopkins, Gerard Manley, 1844-1889"
   institution:             # Institution shown on cover page
   cover-subtitle:          # Subtitle line beneath site title on book cover
   cover-image: false       # true/false — show featured-image on book cover by default

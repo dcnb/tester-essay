@@ -1,8 +1,0 @@
----
-title: BOOK VIII. — CONTAINING ABOUT TWO DAYS.
-order: 96
----
-## BOOK VIII. — CONTAINING ABOUT TWO DAYS.
-
-
----

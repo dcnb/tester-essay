@@ -1,8 +1,0 @@
----
-title: BOOK XI. — CONTAINING ABOUT THREE DAYS.
-order: 130
----
-## BOOK XI. — CONTAINING ABOUT THREE DAYS.
-
-
----
