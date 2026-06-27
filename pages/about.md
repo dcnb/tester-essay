@@ -1,5 +1,5 @@
 ---
-title: "The life and opinions of Tristram Shandy, gentleman — About"
+title: "King Lear — About"
 layout: about
 permalink: /about.html
 credits: true
