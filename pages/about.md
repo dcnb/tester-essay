@@ -1,5 +1,5 @@
 ---
-title: "Poems of Gerard Manley Hopkins&#10;Now First Published — About"
+title: "The life and opinions of Tristram Shandy, gentleman — About"
 layout: about
 permalink: /about.html
 credits: true
